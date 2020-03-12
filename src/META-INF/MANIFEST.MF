@@ -1,0 +1,266 @@
+Manifest-Version: 1.0
+Class-Path: lib\aeron-all-1.4.0.jar lib\aether-api-0.9.0.M2.jar lib\ae
+ ther-api-1.7.jar lib\aether-connector-wagon-1.13.1.jar lib\aether-imp
+ l-0.9.0.M2.jar lib\aether-impl-1.7.jar lib\aether-spi-0.9.0.M2.jar li
+ b\aether-spi-1.13.1.jar lib\aether-spi-1.7.jar lib\aether-util-0.9.0.
+ M2.jar lib\aether-util-1.7.jar lib\Agrona-0.5.4.jar lib\akka-cluster_
+ 2.11-2.3.16.jar lib\akka-contrib_2.11-2.3.16.jar lib\akka-persistence
+ -experimental_2.11-2.3.16.jar lib\akka-remote_2.11-2.3.16.jar lib\akk
+ a-slf4j_2.11-2.3.16.jar lib\ale-0.6.0-1.5.jar lib\annotations-12.0.ja
+ r lib\antlr-2.7.2.jar lib\antlr-3.4-complete.jar lib\antlr-4.0-comple
+ te.jar lib\antlr4-runtime-4.5.3.jar lib\antlrworks-1.4.2.jar lib\aopa
+ lliance-1.0.jar lib\aopalliance-repackaged-2.4.0-b34.jar lib\apacheds
+ -i18n-2.0.0-M15.jar lib\apacheds-kerberos-codec-2.0.0-M15.jar lib\api
+ -asn1-api-1.0.0-M20.jar lib\api-util-1.0.0-M20.jar lib\arbiter-core-1
+ .0.0-beta4.jar lib\arbiter-deeplearning4j-1.0.0-beta4.jar lib\arbiter
+ -ui_2.11-1.0.0-beta4.jar lib\args4j-2.32.jar lib\arpack_combined_all-
+ 0.1.jar lib\arrow-format-0.11.0.jar lib\arrow-memory-0.11.0.jar lib\a
+ rrow-vector-0.11.0.jar lib\artoolkitplus-2.3.1-1.5.jar lib\asm-3.1.ja
+ r lib\asm-3.3.1.jar lib\asm-4.0.jar lib\asm-5.0.2.jar lib\asm-5.1.jar
+  lib\asm-6.0_ALPHA.jar lib\asm-analysis-4.0.jar lib\asm-analysis-5.0.
+ 4.jar lib\asm-commons-4.0.jar lib\asm-commons-5.0.2.jar lib\asm-tree-
+ 4.0.jar lib\asm-tree-5.0.2.jar lib\asm-util-4.0.jar lib\asm-util-5.0.
+ 4.jar lib\avro-1.7.4.jar lib\avro-1.7.7.jar lib\avro-ipc-1.7.7-tests.
+ jar lib\avro-ipc-1.7.7.jar lib\avro-mapred-1.7.7-hadoop2.jar lib\aws-
+ java-sdk-core-1.11.109.jar lib\aws-java-sdk-emr-1.11.109.jar lib\aws-
+ java-sdk-kms-1.11.109.jar lib\aws-java-sdk-s3-1.11.109.jar lib\azure-
+ storage-2.0.0.jar lib\bootstrap-2.3.2.jar lib\bootstrap-4.2.1.jar lib
+ \bootstrap-glyphicons-bdd2cbfba0.jar lib\bootstrap-notify-3.1.3-1.jar
+  lib\bsh-2.0b4.jar lib\build-link-2.4.8.jar lib\byteunits-0.9.1.jar l
+ ib\cdi-api-1.0.jar lib\chill-java-0.8.0.jar lib\chill_2.11-0.8.0.jar 
+ lib\chosen-0.9.8.jar lib\classmate-1.0.0.jar lib\classworlds-1.1-alph
+ a-2.jar lib\classworlds-1.1.jar lib\cloning-1.9.3.jar lib\com.alexmer
+ z.graphviz.jar lib\common-image-3.1.1.jar lib\common-io-3.1.1.jar lib
+ \common-lang-3.1.1.jar lib\commons-beanutils-1.7.0.jar lib\commons-be
+ anutils-core-1.8.0.jar lib\commons-chain-1.1.jar lib\commons-cli-1.0.
+ jar lib\commons-cli-1.2.jar lib\commons-codec-1.10.jar lib\commons-co
+ dec-1.4.jar lib\commons-codec-1.6.jar lib\commons-collections-3.2.1.j
+ ar lib\commons-collections-3.2.2.jar lib\commons-collections4-4.1.jar
+  lib\commons-compiler-3.0.0.jar lib\commons-compress-1.16.1.jar lib\c
+ ommons-configuration-1.6.jar lib\commons-crypto-1.0.0.jar lib\commons
+ -digester-1.6.jar lib\commons-digester-1.8.jar lib\commons-el-1.0.jar
+  lib\commons-httpclient-3.1.jar lib\commons-io-1.4.jar lib\commons-io
+ -2.2.jar lib\commons-io-2.4.jar lib\commons-io-2.5.jar lib\commons-jx
+ path-1.3.jar lib\commons-lang-2.1.jar lib\commons-lang-2.3.jar lib\co
+ mmons-lang-2.4.jar lib\commons-lang-2.6.jar lib\commons-lang3-3.1.jar
+  lib\commons-lang3-3.5.jar lib\commons-lang3-3.6.jar lib\commons-logg
+ ing-1.0.4.jar lib\commons-logging-1.1.1.jar lib\commons-logging-1.1.3
+ .jar lib\commons-logging-1.2.jar lib\commons-logging-api-1.1.jar lib\
+ commons-math-2.1.jar lib\commons-math3-3.5.jar lib\commons-net-2.2.ja
+ r lib\commons-net-3.1.jar lib\commons-validator-1.2.0.jar lib\commons
+ -validator-1.4.1.jar lib\compress-lzf-1.0.3.jar lib\config-1.3.0.jar 
+ lib\core-1.1.2.jar lib\curator-client-2.7.1.jar lib\curator-client-2.
+ 8.0.jar lib\curator-framework-2.4.0.jar lib\curator-framework-2.8.0.j
+ ar lib\curator-recipes-2.4.0.jar lib\curator-recipes-2.8.0.jar lib\cy
+ toscape-3.2.5.jar lib\cytoscape-3.3.3.jar lib\cytoscape-cola-2.3.0.ja
+ r lib\cytoscape-cose-bilkent-4.0.0.jar lib\cytoscape-dagre-2.1.0.jar 
+ lib\cytoscape-euler-1.2.1.jar lib\cytoscape-klay-3.1.2.jar lib\cytosc
+ ape-spread-3.0.0.jar lib\d3-dispatch-1.0.5.jar lib\d3-drag-1.2.3.jar 
+ lib\d3-selection-1.4.0.jar lib\d3-timer-1.0.9.jar lib\d3js-3.3.5.jar 
+ lib\dagre-0.7.4.jar lib\dagre-0.8.4.jar lib\datavec-api-1.0.0-beta4.j
+ ar lib\datavec-arrow-1.0.0-beta4.jar lib\datavec-data-codec-1.0.0-bet
+ a4.jar lib\datavec-data-image-1.0.0-beta4.jar lib\datavec-hadoop-1.0.
+ 0-beta4.jar lib\datavec-local-1.0.0-beta4.jar lib\datavec-spark_2.11-
+ 1.0.0-beta4_spark_2.jar lib\deeplearning4j-common-1.0.0-beta4.jar lib
+ \deeplearning4j-core-1.0.0-beta4.jar lib\deeplearning4j-datasets-1.0.
+ 0-beta4.jar lib\deeplearning4j-datavec-iterators-1.0.0-beta4.jar lib\
+ deeplearning4j-modelimport-1.0.0-beta4.jar lib\deeplearning4j-nlp-1.0
+ .0-beta4.jar lib\deeplearning4j-nn-1.0.0-beta4.jar lib\deeplearning4j
+ -parallel-wrapper-1.0.0-beta4.jar lib\deeplearning4j-play_2.11-1.0.0-
+ beta4.jar lib\deeplearning4j-tsne-1.0.0-beta4.jar lib\deeplearning4j-
+ ui-components-1.0.0-beta4.jar lib\deeplearning4j-ui-model-1.0.0-beta4
+ .jar lib\deeplearning4j-ui_2.11-1.0.0-beta4.jar lib\deeplearning4j-ut
+ il-1.0.0-beta4.jar lib\deeplearning4j-utility-iterators-1.0.0-beta4.j
+ ar lib\deeplearning4j-zoo-1.0.0-beta4.jar lib\dl4j-spark-1.0.0-beta4.
+ jar lib\dl4j-spark-cluster-1.0.0-beta4.jar lib\dl4j-spark-nlp_2.11-1.
+ 0.0-beta4_spark_2.jar lib\dl4j-spark-parameterserver_2.11-1.0.0-beta4
+ _spark_2.jar lib\dl4j-spark_2.11-1.0.0-beta4_spark_2.jar lib\dom4j-1.
+ 1.jar lib\eclipse-collections-7.1.2.jar lib\eclipse-collections-api-7
+ .1.2.jar lib\eclipse-collections-forkjoin-7.1.2.jar lib\elsa-3.0.0-M5
+ .jar lib\emf-common-2_5_0.jar lib\emf-ecore-2_5_0.jar lib\emf-ecore-x
+ mi-2_5_0.jar lib\epsgraphics-1.2.jar lib\excanvas-3.jar lib\explorerc
+ anvas-r3-1.jar lib\filenames.txt lib\flamingo-7.2.jar lib\flandmark-1
+ .07-1.5.jar lib\flatbuffers-1.9.0.jar lib\flatbuffers-java-1.10.0.jar
+  lib\flot-0.8.3.jar lib\flycapture-2.13.3.31-1.5.jar lib\font-awesome
+ -3.0.2.jar lib\freemarker-2.3.23.jar lib\fullcalendar-1.6.4.jar lib\g
+ ithub-com-jboesch-Gritter-1.7.4.jar lib\gnuprologjava-0.2.6.jar lib\g
+ oogle-collections-1.0.jar lib\graphlib-1.0.7.jar lib\graphlib-2.1.7.j
+ ar lib\groovy-2.0.5.jar lib\gson-2.2.4.jar lib\gson-2.7.jar lib\guava
+ -20.0.jar lib\guice-4.0.jar lib\guice-assistedinject-4.0.jar lib\gym-
+ java-client-1.0.0-beta4.jar lib\hadoop-annotations-2.2.0.jar lib\hado
+ op-auth-2.2.0.jar lib\hadoop-auth-2.7.4.jar lib\hadoop-azure-2.7.4.ja
+ r lib\hadoop-client-2.2.0.jar lib\hadoop-mapreduce-client-app-2.2.0.j
+ ar lib\hadoop-mapreduce-client-common-2.2.0.jar lib\hadoop-mapreduce-
+ client-core-2.2.0.jar lib\hadoop-mapreduce-client-jobclient-2.2.0.jar
+  lib\hadoop-mapreduce-client-shuffle-2.2.0.jar lib\hadoop-yarn-api-2.
+ 2.0.jar lib\hadoop-yarn-client-2.2.0.jar lib\hadoop-yarn-common-2.2.0
+ .jar lib\hadoop-yarn-server-common-2.2.0.jar lib\hamcrest-core-1.1.ja
+ r lib\hamcrest-core-1.3.jar lib\hamcrest-library-1.1.jar lib\hdf5-1.1
+ 0.5-1.5.jar lib\hdf5-platform-1.10.5-1.5.jar lib\heap-0.2.6.jar lib\h
+ ibernate-validator-5.1.3.Final.jar lib\hk2-api-2.4.0-b34.jar lib\hk2-
+ locator-2.4.0-b34.jar lib\hk2-utils-2.4.0-b34.jar lib\hppc-0.8.1.jar 
+ lib\htrace-core-3.1.0-incubating.jar lib\httpasyncclient-4.1.1.jar li
+ b\httpclient-4.2.5.jar lib\httpclient-4.3.5.jar lib\httpclient-4.3.6.
+ jar lib\httpclient-4.5.3.jar lib\httpcore-4.2.4.jar lib\httpcore-4.3.
+ 2.jar lib\httpcore-4.3.3.jar lib\httpcore-4.4.6.jar lib\httpcore-nio-
+ 4.4.4.jar lib\httpmime-4.5.3.jar lib\imageio-bmp-3.1.1.jar lib\imagei
+ o-core-3.1.1.jar lib\imageio-jpeg-3.1.1.jar lib\imageio-metadata-3.1.
+ 1.jar lib\imageio-psd-3.1.1.jar lib\imageio-tiff-3.1.1.jar lib\images
+ loaded-2.1.1.jar lib\ion-java-1.0.2.jar lib\itextpdf-5.3.2.jar lib\iv
+ y-2.4.0.jar lib\jackson-1.0.0-beta4.jar lib\jackson-annotations-2.5.0
+ .jar lib\jackson-annotations-2.5.1.jar lib\jackson-annotations-2.6.0.
+ jar lib\jackson-core-2.5.1.jar lib\jackson-core-2.6.4.jar lib\jackson
+ -core-asl-1.8.8.jar lib\jackson-core-asl-1.9.13.jar lib\jackson-datab
+ ind-2.5.1.jar lib\jackson-databind-2.6.4.jar lib\jackson-databind-2.6
+ .5.jar lib\jackson-dataformat-cbor-2.6.6.jar lib\jackson-dataformat-x
+ ml-2.6.5.jar lib\jackson-dataformat-yaml-2.6.5.jar lib\jackson-dataty
+ pe-jdk8-2.5.1.jar lib\jackson-datatype-joda-2.6.5.jar lib\jackson-dat
+ atype-jsr310-2.5.1.jar lib\jackson-jaxrs-1.8.3.jar lib\jackson-mapper
+ -asl-1.8.8.jar lib\jackson-mapper-asl-1.9.13.jar lib\jackson-module-j
+ axb-annotations-2.6.5.jar lib\jackson-module-scala_2.11-2.5.1.jar lib
+ \jackson-xc-1.8.3.jar lib\jai-imageio-core-1.3.0.jar lib\janino-3.0.0
+ .jar lib\jasper-compiler-5.5.23.jar lib\jasper-runtime-5.5.23.jar lib
+ \javacpp-1.5.jar lib\javacv-1.5.jar lib\JavaEWAH-0.7.9.jar lib\javass
+ ist-3.18.1-GA.jar lib\javassist-3.19.0-GA.jar lib\javax.annotation-ap
+ i-1.2.jar lib\javax.inject-1.jar lib\javax.inject-2.4.0-b34.jar lib\j
+ avax.servlet-api-3.1.0.jar lib\javax.ws.rs-api-2.0.1.jar lib\javax.ws
+ .rs-api-2.0.jar lib\jaxb-core-2.3.0.jar lib\jaxb-gxl-1_0.jar lib\jaxb
+ -impl-2.3.0.jar lib\jaxen-core-1.0-FCS.jar lib\jaxen-jdom-1.0-FCS.jar
+  lib\jaxfront-core.jar lib\jaxfront-swing.jar lib\jboss-logging-3.1.3
+ .GA.jar lib\jcip-annotations-1.0.jar lib\jcl-over-slf4j-1.7.16.jar li
+ b\jcodec-0.1.5.jar lib\jcommander-1.27.jar lib\jcommon-1.0.16.jar lib
+ \jcommon-1.0.23.jar lib\jdependency-1.1.jar lib\jdom-1.1.jar lib\jdom
+ -2.0.2.jar lib\jersey-client-2.22.2.jar lib\jersey-common-2.22.2.jar 
+ lib\jersey-container-servlet-2.22.2.jar lib\jersey-container-servlet-
+ core-2.22.2.jar lib\jersey-core-1.9.jar lib\jersey-guava-2.22.2.jar l
+ ib\jersey-json-1.9.jar lib\jersey-media-jaxb-2.22.2.jar lib\jersey-se
+ rver-1.9.jar lib\jersey-server-2.22.2.jar lib\jets3t-0.6.1.jar lib\je
+ ts3t-0.7.1.jar lib\jettison-1.1.jar lib\jetty-6.1.26.jar lib\jetty-ss
+ lengine-6.1.26.jar lib\jetty-util-6.1.26.jar lib\jfreechart-1.0.13.ja
+ r lib\jgoodies-common-1.2.0.jar lib\jgoodies-looks-2.4.1.jar lib\jgra
+ ph-5_13_0.jar lib\jline-0.9.94.jar lib\jmespath-java-1.11.109.jar lib
+ \jmock-2.5.1.jar lib\jmock-junit4-2.5.1.jar lib\jna-4.3.0.jar lib\jna
+ -platform-4.3.0.jar lib\joda-convert-1.7.jar lib\joda-time-2.2.jar li
+ b\joda-time-2.9.1.jar lib\jquery-2.2.0.jar lib\jquery-cookie-1.4.1-1.
+ jar lib\jquery-knob-1.2.2.jar lib\jquery-migrate-1.2.1.jar lib\jquery
+ -raty-2.5.2.jar lib\jquery-ui-1.10.2.jar lib\jquery-ui-touch-punch-0.
+ 2.2.jar lib\jquery.sparkline-2.1.2.jar lib\jsch-0.1.42.jar lib\jsch-0
+ .1.53.jar lib\jsch-0.1.54.jar lib\json-20160212.jar lib\json4s-ast_2.
+ 11-3.2.11.jar lib\json4s-core_2.11-3.2.11.jar lib\json4s-jackson_2.11
+ -3.2.11.jar lib\jsoup-1.10.2.jar lib\jsoup-1.7.2.jar lib\jsp-api-2.1.
+ jar lib\jsr250-api-1.0.jar lib\jsr305-1.3.9.jar lib\jsr305-2.0.1.jar 
+ lib\jta-1.1.jar lib\jtransforms-2.4.0.jar lib\jul-to-slf4j-1.7.16.jar
+  lib\jul-to-slf4j-1.7.21.jar lib\junit-3.8.1.jar lib\junit-3.8.2.jar 
+ lib\junit-4.12.jar lib\junit-dep-4.4.jar lib\klayjs-0.4.1.jar lib\kot
+ lin-runtime-1.0.7.jar lib\kotlin-stdlib-1.0.7.jar lib\kryo-shaded-3.0
+ .3.jar lib\leptonica-1.78.0-1.5.jar lib\leptonica-platform-1.78.0-1.5
+ .jar lib\leveldb-0.5.jar lib\leveldb-api-0.5.jar lib\leveldbjni-all-1
+ .8.jar lib\libdc1394-2.2.5-1.5.jar lib\libfreenect-0.5.7-1.5.jar lib\
+ libfreenect2-0.2.0-1.5.jar lib\librealsense-1.12.1-1.5.jar lib\lodash
+ -3.10.1-amd.jar lib\lodash-4.17.15.jar lib\lodash.debounce-4.0.8.jar 
+ lib\log4j-1.2.12.jar lib\log4j-1.2.17.jar lib\logback-classic-1.1.7.j
+ ar lib\logback-classic-1.2.3.jar lib\logback-core-1.1.7.jar lib\logba
+ ck-core-1.2.3.jar lib\lombok-1.16.16.jar lib\ltl2buchi-2010-12.jar li
+ b\lz4-1.3.0.jar lib\MalmoJavaJar-0.30.0.jar lib\mapdb-3.0.5.jar lib\m
+ asonry-3.1.5.jar lib\metrics-core-3.1.2.jar lib\metrics-graphite-3.1.
+ 2.jar lib\metrics-json-3.1.2.jar lib\metrics-jvm-3.1.2.jar lib\minlog
+ -1.3.0.jar lib\mkl-2019.3-1.5-windows-x86.jar lib\mkl-2019.3-1.5-wind
+ ows-x86_64.jar lib\mkl-2019.3-1.5.jar lib\mkl-dnn-0.18.1-1.5-windows-
+ x86_64.jar lib\mkl-dnn-0.18.1-1.5.jar lib\mkl-dnn-platform-0.18.1-1.5
+ .jar lib\mkl-platform-2019.3-1.5.jar lib\modernizr-2.8.3-1.jar lib\nd
+ 4j-aeron-1.0.0-beta4.jar lib\nd4j-api-1.0.0-beta4.jar lib\nd4j-arrow-
+ 1.0.0-beta4.jar lib\nd4j-buffer-1.0.0-beta4.jar lib\nd4j-common-1.0.0
+ -beta4.jar lib\nd4j-context-1.0.0-beta4.jar lib\nd4j-jackson-1.0.0-be
+ ta4.jar lib\nd4j-native-1.0.0-beta4-ios-arm64.jar lib\nd4j-native-1.0
+ .0-beta4-ios-x86_64.jar lib\nd4j-native-1.0.0-beta4-windows-x86_64.ja
+ r lib\nd4j-native-1.0.0-beta4.jar lib\nd4j-native-api-1.0.0-beta4.jar
+  lib\nd4j-native-platform-1.0.0-beta4.jar lib\nd4j-parameter-server-1
+ .0.0-beta4.jar lib\nd4j-parameter-server-client-1.0.0-beta4.jar lib\n
+ d4j-parameter-server-model-1.0.0-beta4.jar lib\nd4j-parameter-server-
+ node_2.11-1.0.0-beta4.jar lib\nd4j-parameter-server-status_2.11-1.0.0
+ -beta4.jar lib\nearestneighbor-core-1.0.0-beta4.jar lib\neoitertools-
+ 1.0.0.jar lib\netty-3.10.4.Final.jar lib\netty-3.8.0.Final.jar lib\ne
+ tty-buffer-4.1.22.Final.jar lib\netty-common-4.1.22.Final.jar lib\net
+ ty-http-pipelining-1.1.4.jar lib\noty-2.2.2.jar lib\objenesis-2.6.jar
+  lib\openblas-0.3.5-1.5-ios-arm64.jar lib\openblas-0.3.5-1.5-ios-x86_
+ 64.jar lib\openblas-0.3.5-1.5-windows-x86.jar lib\openblas-0.3.5-1.5-
+ windows-x86_64.jar lib\openblas-0.3.5-1.5.jar lib\openblas-platform-0
+ .3.5-1.5.jar lib\opencsv-2.3.jar lib\opencv-4.0.1-1.5-windows-x86.jar
+  lib\opencv-4.0.1-1.5-windows-x86_64.jar lib\opencv-4.0.1-1.5.jar lib
+ \opencv-platform-4.0.1-1.5.jar lib\org.eclipse.emf.common_2.7.0.v2012
+ 0127-1122.jar lib\org.eclipse.emf.ecore.xmi_2.7.0.v20120127-1122.jar 
+ lib\org.eclipse.emf.ecore_2.7.0.v20120127-1122.jar lib\org.eclipse.jd
+ t.annotation-2.1.0.jar lib\org.eclipse.jgit-4.3.1.201605051710-r.jar 
+ lib\org.eclipse.sisu.inject-0.0.0.M5.jar lib\org.eclipse.sisu.plexus-
+ 0.0.0.M5.jar lib\oro-2.0.8.jar lib\osgi-resource-locator-1.0.1.jar li
+ b\oshi-core-3.4.2.jar lib\oswego-concurrent-1.3.4.jar lib\OSXAdapter.
+ jar lib\paranamer-2.3.jar lib\paranamer-2.6.jar lib\parquet-column-1.
+ 8.1.jar lib\parquet-common-1.8.1.jar lib\parquet-encoding-1.8.1.jar l
+ ib\parquet-format-2.3.0-incubating.jar lib\parquet-hadoop-1.8.1.jar l
+ ib\parquet-jackson-1.8.1.jar lib\play-datacommons_2.11-2.4.8.jar lib\
+ play-exceptions-2.4.8.jar lib\play-functional_2.11-2.4.8.jar lib\play
+ -iteratees_2.11-2.4.8.jar lib\play-java_2.11-2.4.8.jar lib\play-json_
+ 2.11-2.4.8.jar lib\play-netty-server_2.11-2.4.8.jar lib\play-netty-ut
+ ils-2.4.8.jar lib\play-server_2.11-2.4.8.jar lib\plexus-archiver-2.1.
+ jar lib\plexus-archiver-2.3.jar lib\plexus-build-api-0.0.4.jar lib\pl
+ exus-cipher-1.4.jar lib\plexus-classworlds-2.2.2.jar lib\plexus-class
+ worlds-2.2.3.jar lib\plexus-classworlds-2.5.1.jar lib\plexus-compiler
+ -api-2.2.jar lib\plexus-compiler-api-2.7.jar lib\plexus-compiler-api-
+ 2.8.1.jar lib\plexus-compiler-javac-2.2.jar lib\plexus-compiler-javac
+ -2.7.jar lib\plexus-compiler-javac-2.8.1.jar lib\plexus-compiler-mana
+ ger-2.2.jar lib\plexus-compiler-manager-2.7.jar lib\plexus-compiler-m
+ anager-2.8.1.jar lib\plexus-component-annotations-1.5.5.jar lib\plexu
+ s-component-annotations-1.6.jar lib\plexus-container-default-1.0-alph
+ a-9-stable-1.jar lib\plexus-container-default-1.5.5.jar lib\plexus-di
+ gest-1.0.jar lib\plexus-i18n-1.0-beta-6.jar lib\plexus-i18n-1.0-beta-
+ 7.jar lib\plexus-interactivity-api-1.0-alpha-4.jar lib\plexus-interpo
+ lation-1.13.jar lib\plexus-interpolation-1.14.jar lib\plexus-interpol
+ ation-1.15.jar lib\plexus-interpolation-1.19.jar lib\plexus-io-2.0.2.
+ jar lib\plexus-io-2.0.6.jar lib\plexus-sec-dispatcher-1.3.jar lib\ple
+ xus-utils-1.5.1.jar lib\plexus-utils-1.5.8.jar lib\plexus-utils-2.0.4
+ .jar lib\plexus-utils-2.0.5.jar lib\plexus-utils-3.0.15.jar lib\plexu
+ s-utils-3.0.22.jar lib\plexus-utils-3.0.24.jar lib\plexus-utils-3.0.5
+ .jar lib\plexus-utils-3.0.8.jar lib\plexus-utils-3.0.9.jar lib\plexus
+ -utils-3.0.jar lib\plexus-velocity-1.1.7.jar lib\pmml-model-1.2.15.ja
+ r lib\pmml-schema-1.2.15.jar lib\protobuf-java-2.5.0.jar lib\protobuf
+ -java-2.6.1.jar lib\protobuf-java-shaded-351-0.9.jar lib\protobuf-jav
+ a-util-shaded-351-0.9.jar lib\protonpack-1.15.jar lib\py4j-0.10.4.jar
+  lib\pyrolite-4.13.jar lib\qdox-2.0-M5.jar lib\reactive-streams-1.0.2
+ .jar lib\reflections-0.9.9.jar lib\resolver.jar lib\retinajs-0.0.2.ja
+ r lib\rl4j-ale-1.0.0-beta4.jar lib\rl4j-api-1.0.0-beta4.jar lib\rl4j-
+ core-1.0.0-beta4.jar lib\rl4j-gym-1.0.0-beta4.jar lib\rl4j-malmo-1.0.
+ 0-beta4.jar lib\RoaringBitmap-0.5.11.jar lib\rsyntaxtextarea.jar lib\
+ rxjava-2.2.0.jar lib\saxpath-1.0-FCS.jar lib\scala-java8-compat_2.11-
+ 0.3.0.jar lib\scala-logging_2.11-3.5.0.jar lib\scala-parser-combinato
+ rs_2.11-1.0.1.jar lib\scala-stm_2.11-0.7.jar lib\scala-xml_2.11-1.0.1
+ .jar lib\scala-xml_2.11-1.0.2.jar lib\scalap-2.11.0.jar lib\serialize
+ r.jar lib\servlet-api-2.5.jar lib\sisu-guice-2.1.7-noaop.jar lib\sisu
+ -guice-3.1.0-no_aop.jar lib\sisu-inject-bean-1.4.2.jar lib\sisu-injec
+ t-plexus-1.4.2.jar lib\slf4j-api-1.7.16.jar lib\slf4j-api-1.7.2.jar l
+ ib\slf4j-api-1.7.20.jar lib\slf4j-api-1.7.21.jar lib\slf4j-log4j12-1.
+ 7.16.jar lib\snakeyaml-1.12.jar lib\snappy-java-1.0.4.1.jar lib\snapp
+ y-java-1.1.2.6.jar lib\spark-graphx_2.11-2.1.0.jar lib\spark-launcher
+ _2.11-2.1.0.jar lib\spark-mllib-local_2.11-2.1.0.jar lib\spark-networ
+ k-shuffle_2.11-2.1.0.jar lib\spark-sketch_2.11-2.1.0.jar lib\spark-ta
+ gs_2.11-2.1.0.jar lib\spark-unsafe_2.11-2.1.0.jar lib\spring-aop-3.1.
+ 1.RELEASE.jar lib\spring-asm-3.1.1.RELEASE.jar lib\spring-beans-3.1.1
+ .RELEASE.jar lib\spring-beans-4.1.6.RELEASE.jar lib\spring-context-3.
+ 1.1.RELEASE.jar lib\spring-context-4.1.6.RELEASE.jar lib\spring-core-
+ 3.1.1.RELEASE.jar lib\spring-core-4.1.6.RELEASE.jar lib\spring-expres
+ sion-3.1.1.RELEASE.jar lib\sslext-1.2-0.jar lib\stax-api-1.0.1.jar li
+ b\stax2-api-3.1.4.jar lib\stream-2.7.0.jar lib\struts-core-1.3.8.jar 
+ lib\struts-taglib-1.3.8.jar lib\struts-tiles-1.3.8.jar lib\swingfx.ja
+ r lib\t-digest-3.2.jar lib\tesseract-4.0.0-1.5.jar lib\threadly-4.10.
+ 0.jar lib\threetenbp-1.3.3.jar lib\tomcat-servlet-api-8.0.21.jar lib\
+ twirl-api_2.11-1.1.1.jar lib\typetools-0.5.0.jar lib\uncommons-maths-
+ 1.2.2a.jar lib\unirest-java-1.4.9.jar lib\univocity-parsers-2.2.1.jar
+  lib\unused-1.0.0.jar lib\validation-api-1.1.0.Final.jar lib\velocity
+ -1.5.jar lib\velocity-1.7.jar lib\velocity-tools-2.0.jar lib\videoinp
+ ut-0.200-1.5.jar lib\weaverjs-1.2.0.jar lib\webcola-3.3.8.jar lib\xbe
+ an-asm5-shaded-4.4.jar lib\xbean-reflect-3.4.jar lib\xercesImpl-2.11.
+ 0.jar lib\xercesImpl.jar lib\xml-apis-1.0.b2.jar lib\xml-apis-1.4.01.
+ jar lib\xml-apis.jar lib\xmlenc-0.52.jar lib\xmlpull-1.1.3.1.jar lib\
+ xpp3_min-1.1.4c.jar lib\xstream-1.4.8.jar lib\zookeeper-3.4.5.jar lib
+ \zookeeper-3.4.6.jar
+Main-Class: groove.Simulator
+

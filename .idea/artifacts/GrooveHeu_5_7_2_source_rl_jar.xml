@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="GrooveHeu.5.7.2.source.rl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrooveHeu_5_7_2_source_rl_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GrooveHeu.5.7.2.source.rl.jar">
+        <element id="module-output" name="GrooveHeu.5.7.2.source.rl" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>

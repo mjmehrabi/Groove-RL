@@ -1,0 +1,236 @@
+2020-03-12 21:03:01,055 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:03:07,032 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:03:10,260 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:03:10,316 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:03:10,316 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:03:10,316 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:03:10,739 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:15:10,484 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:15:11,963 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:15:12,710 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:15:12,718 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:15:12,718 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:15:12,718 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:15:13,155 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:16:52,107 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:16:53,659 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:16:54,464 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:16:54,471 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:16:54,471 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:16:54,471 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:16:54,834 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:19:29,453 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:19:30,736 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:19:31,483 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:19:31,488 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:19:31,489 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:19:31,489 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:19:31,791 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:21:58,970 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:22:00,372 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:22:01,123 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:22:01,129 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:22:01,129 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:22:01,129 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:22:01,478 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:26:23,720 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:26:25,421 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:26:26,190 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:26:26,196 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:26:26,196 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:26:26,196 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:26:26,507 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:35:39,953 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:35:41,331 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:35:42,017 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:35:42,024 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:35:42,024 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:35:42,024 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:35:42,323 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
+2020-03-12 21:38:57,251 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:40:29,217 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:43:07,198 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:44:49,643 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in AWT-EventQueue-0
+                
+Loaded [CpuBackend] backend
+
+2020-03-12 21:44:50,920 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in AWT-EventQueue-0
+                
+Number of threads used for NativeOps: 4
+
+2020-03-12 21:44:51,658 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in AWT-EventQueue-0
+                
+Number of threads used for BLAS: 4
+
+2020-03-12 21:44:51,665 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Backend used: [CPU]; OS: [Windows 10]
+
+2020-03-12 21:44:51,665 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Cores: [8]; Memory: [3.5GB];
+
+2020-03-12 21:44:51,665 - [INFO] - from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in AWT-EventQueue-0
+                
+Blas vendor: [MKL]
+
+2020-03-12 21:44:52,011 - [INFO] - from org.deeplearning4j.nn.multilayer.MultiLayerNetwork in AWT-EventQueue-0
+                
+Starting MultiLayerNetwork with WorkspaceModes set to [training: ENABLED; inference: ENABLED], cacheMode set to [NONE]
+
