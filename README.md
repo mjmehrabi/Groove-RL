@@ -11,8 +11,8 @@ Afterward, in the Model Checking dialog, select **Reward 2 (Dedicated)** option 
 Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implement it.
 
 ## Thanks
-* [Arend Rensink, Project Leader of Groove Graph Transformation Tool Set][A. Rensink]
-* [Vahid Rafe, Associate Professor of Arak University, Faculty of Computer Engineering][V. Rafe]
+* [Arend Rensink, Project Leader Of Groove Graph Transformation Tool Set][A. Rensink]
+* [Vahid Rafe, Associate Professor Of Arak University, Faculty Of Computer Engineering][V. Rafe]
 * [DeepLearning4J Team For Their Unique Deep Learning Java Library][DL4J]
 
 [V. Rafe]: https://scholar.google.com/citations?user=JdL7r00AAAAJ&hl=en
