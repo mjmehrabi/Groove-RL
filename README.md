@@ -13,7 +13,7 @@ Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implemen
 ## Thanks
 * [Arend Rensink, Project Leader of Groove Graph Transformation Tool Set][A. Rensink]
 * [Vahid Rafe, Associate Professor of Arak University, Faculty of Computer Engineering][V. Rafe]
-* [DeepLearning4J Team For Their Uniquie Deep Learning Java Library][DL4J]
+* [DeepLearning4J Team For Their Unique Deep Learning Java Library][DL4J]
 
 [V. Rafe]: https://scholar.google.com/citations?user=JdL7r00AAAAJ&hl=en
 [A. Rensink]: https://github.com/rensink
