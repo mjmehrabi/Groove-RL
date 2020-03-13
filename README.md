@@ -7,7 +7,7 @@ Afterward, in the Model Checking dialog, select **Reward 2 (Dedicated)** option 
 4. You can define your desired experience reply memory in the `groove\verify` package and implement the`IExperienceReplayMemory` interface.
 Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implement it.
 
-####Thanks
+### Thanks
 * [Arend Rensink, Project Leader of Groove Graph Transformation Tool Set][A. Rensink]
 * [Vahid Rafe, Associate Professor of Arak University, Faculty of Computer Engineering][V. Rafe]
 
