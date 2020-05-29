@@ -16,8 +16,7 @@ Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implemen
 | Package Name        | Class Name           | Description  | Type
 | :-------------: |:-------------:| :----| :----:
 | groove.gui.action      | RLDialogAction | Create a new dialog for the new approach | `Created`
-| groove.gui.action      | RLExploreAction | Exploring for new approach | `Created`
-| groove.gui.dialog      | RLDialog | Create a dialog box and its graphical user interface | `Created` `Modified`
+| groove.gui.action      | RLExploreAction | Exploring with new approach | `Created`
 | groove.verify      | RL | Implement the main section of the algorithm, manage each Episode and check the outputs of the main section of the algorithm | `Created`
 | groove.verify      | RLExploringItem | The required data during the execution of the algorithm | `Created`
 | groove.verify      | RLAgent | Abstract class as parent class for different classes to create different DQN algorithms | `Created`
@@ -25,6 +24,7 @@ Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implemen
 | groove.verify      | SimpleExperienceReplayMemory | Simple Experience Replay Memory | `Created`
 | groove.verify      | Memory | Data model to store experiences | `Created`
 | groove.verify      | DDQNAgent | Double Deep Q-Network Agent | `Created`
+| groove.gui.dialog      | RLDialog | Create a dialog box and its graphical user interface | `Created` `Modified`
 | groove.gui      | Options | The name the dialog in the verify menu | `Modified`
 | groove.gui      | Simulator | Add a new option menu for new approach | `Modified`
 | groove.gui.action      | ActionStore | Use the created menus | `Modified`
