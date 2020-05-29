@@ -1,4 +1,5 @@
-# Model Checking Using Deep Reinforcement Learning Implemented In The Groove Graph Transformation Tool Set
+# Deep Reinforcement Learning In Groove Graph Transformation
+## Model Checking Using Deep Reinforcement Learning Implemented In The Groove Graph Transformation Tool Set
 
 1. This implementation is based on [Groove 5.7.2 source code](https://groove.ewi.utwente.nl) and uses **Deep Q-Network** and **Double Deep Q-Network** to verify reachability property in complex software system specified by graph transformation.
 
