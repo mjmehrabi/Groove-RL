@@ -48,3 +48,6 @@ Afterward, put it in your agent class like `DDQNAgent` or `DQNAgent` to implemen
 [V. Rafe]: https://scholar.google.com/citations?user=JdL7r00AAAAJ&hl=en
 [A. Rensink]: https://github.com/rensink
 [DL4J]: https://github.com/eclipse/deeplearning4j
+
+## Related Article
+https://link.springer.com/article/10.1007/s00500-022-06815-4
